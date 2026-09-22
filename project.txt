@@ -1,2 +1,2 @@
 i am learning git and github
-in data science 
+in data science we have learn to pull and push plus cloning
