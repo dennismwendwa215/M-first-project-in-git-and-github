@@ -1,2 +1,6 @@
 i am learning git and github
-in data science and its amazing
+<<<<<<< HEAD
+
+=======
+in data science we have learn to pull and push plus cloning
+>>>>>>> 890ca42c2b7c9af279ef4105f5d7e5fb3c1b7962
